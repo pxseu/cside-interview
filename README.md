@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> DO NOT FORK, please send your finished results via email. 
+
+
 # cside-interview Template
 
 Thanks for applying to c/side! While basic, this template resembles high-level of what c/side's fullstack experience would look like. This defines a very good starting point for your homework assignment so you can focus on writing the application rather than making the foundation of the app.
