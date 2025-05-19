@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> DO NOT FORK, please send your finished results via email. 
+> DO NOT FORK, please download this repository and import it to your personal account.
 
 
 # cside-interview Template
