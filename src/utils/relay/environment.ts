@@ -20,11 +20,6 @@ async function fetchRelay(
 		headers: {
 			"Content-Type": "application/json",
 			Accept: "application/json",
-			/**
-			 * THIS IS A BASIC FRONTEND VITE APP
-			 * DO NOT PUBLISH THIS APPLICATION ONLINE
-			 * YOUR GITHUB TOKEN WILL BE PUBLICLY AVAILABLE
-			 * */
 			Authorization: `Bearer ${import.meta.env.VITE_GH_TOKEN}`,
 		},
 		body: JSON.stringify({

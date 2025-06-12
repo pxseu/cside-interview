@@ -1,10 +1,3 @@
-> [!IMPORTANT]
-> DO NOT FORK, please download this repository and import it to your personal account.
-
-
-# cside-interview Template
-
-Thanks for applying to c/side! While basic, this template resembles high-level of what c/side's fullstack experience would look like. This defines a very good starting point for your homework assignment so you can focus on writing the application rather than making the foundation of the app.
 
 ## What you are building
 
@@ -31,9 +24,6 @@ You are building a simple application that displays information about a GitHub r
         - Comment's body
 
 ## Getting Started / Good-to-Know
-
-> [!IMPORTANT]
-> This template SHOULD NOT BE PUBLISHED ONLINE. Since this is a frontend-only application, if you publish it online, your GitHub token will be publicly available via the Network tab of the browser's developer tools. 
 
 This template uses:
 - [Vite](https://vitejs.dev/)
