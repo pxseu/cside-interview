@@ -1,4 +1,3 @@
-
 ## What you are building
 
 You are building a simple application that displays information about a GitHub repository. The application should be able to do the following:
@@ -26,6 +25,7 @@ You are building a simple application that displays information about a GitHub r
 ## Getting Started / Good-to-Know
 
 This template uses:
+
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [Relay](https://relay.dev/)
@@ -49,7 +49,6 @@ To get started, follow these steps:
    1. This runs Vite in development mode and relay's compiler in watch mode. Any changes you make to a query/mutation/fragment will be automatically compiled and the application will be updated.
 5. Open your browser to `http://localhost:5173`
 6. Get to cooking!
-
 
 > [!NOTE]
 > You are not creating an API for this application. But rather interacting with GitHub's GraphQL API (Read the docs [here](https://docs.github.com/en/graphql)). At c/side, you will be creating queries and mutations for the API, but for the sake of your time, we will be interacting with GitHub's API.

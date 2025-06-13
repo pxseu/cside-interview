@@ -23,6 +23,7 @@
           buildInputs = [
             pkgs.bun
             pkgs.watchman
+            pkgs.git
           ];
         };
       }
